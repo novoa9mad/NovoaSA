@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Peliculas.xslt"?>
+
+<cartelera>
+    <pelicula id="1">
+        <titulo>Vengadores: Infinity War</titulo>
+        <tituloOriginal>Avengers: Infinity War</tituloOriginal>
+        <pais>EEUU</pais>
+        <año>2018</año>
+        <duracion>149</duracion>
+        <director>Joe Russo &amp; Anthony Russo</director>
+        <reparto>
+            <actor>Robert Downey Jr.</actor>
+            <actor>Chris Hemsworth</actor>
+            <actor>Mark Ruffalo</actor>
+            <actor>Chris Evans</actor>
+            <actor>Scarlett Johansson</actor>
+            <actor>Benedict Cumberbatch</actor>
+        </reparto>
+        <sinopsis>Vengadores: Infinity War seguirá la lucha de los superhéroes de Marvel contra el mayor villano al que se han enfrentado nunca: Thanos. Su único objetivo será detener a este poderoso antagonista e impedir que se haga con el control de la galaxia. De nuevo veremos al grupo formado por Iron Man, Capitán América, Viuda negra, Ant-Man, Ojo de Halcón, Thor y Hulk, entre otros. En su nueva e impactante aventura, las Gemas del Infinito estarán en juego, unos querrán protegerlas y otros controlarlas, ¿quién ganará?</sinopsis>
+        <web>https://marvel.com/avengers</web>
+        <clasificacion>12</clasificacion>
+        <imagen>img/AvengersInfinityWar.jpg</imagen>
+        <trailer>https://www.youtube.com/watch?v=-f5PwE_Q8Fs</trailer>
+    </pelicula>
+    <pelicula id="2">
+        <titulo>Black Panther</titulo>
+        <tituloOriginal>Black Panther</tituloOriginal>
+        <pais>EEUU</pais>
+        <año>2018</año>
+        <duracion>134</duracion>
+        <director>Ryan Coogler</director>
+        <reparto>
+            <actor>Chadwick Boseman</actor>
+            <actor>Michael B. Jordan</actor>
+            <actor>Lupita Nyong'o</actor>
+            <actor>Danai Gurira</actor>
+            <actor>Letitia Wright</actor>
+            <actor>Martin Freeman</actor>
+        </reparto>
+        <sinopsis>"Black Panther" cuenta la historia de T'Challa quien, después de los acontecimientos de "Capitán América: Civil War", vuelve a casa, a la nación de Wakanda, aislada y muy avanzada tecnológicamente, para ser proclamado Rey. Pero la reaparición de un viejo enemigo pone a prueba el temple de T'Challa como Rey y Black Panther ya que se ve arrastrado a un conflicto que pone en peligro todo el destino de Wakanda y del mundo.</sinopsis>
+        <web>https://marvel.com/blackpanther</web>
+        <clasificacion>12</clasificacion>
+        <imagen>img/BlackPanther.jpg</imagen>
+        <trailer>https://www.youtube.com/watch?v=JK-wAfAvJ0g</trailer>
+    </pelicula>
+    <pelicula id="3">
+        <titulo>Doctor Strange</titulo>
+        <tituloOriginal>Doctor Strange</tituloOriginal>
+        <pais>EEUU</pais>
+        <año>2016</año>
+        <duracion>115</duracion>
+        <director>Scott Derrickson</director>
+        <reparto>
+            <actor>Benedict Cumberbatch</actor>
+            <actor>Chiwetel Ejiofor</actor>
+            <actor>Rachel McAdams</actor>
+            <actor>Mads Mikkelsen</actor>
+            <actor>Tilda Swinton</actor>
+        </reparto>
+        <sinopsis>La vida del Dr. Stephen Strange cambia para siempre tras un accidente automovilístico que le deja muy malheridas sus manos. Cuando la medicina tradicional falla, se ve obligado a buscar esperanza y una cura en un lugar impensable: una comunidad aislada en Nepal llamada Kamar-Taj. Rápidamente descubre que éste no es sólo un centro de recuperación, sino también la primera línea de una batalla en contra de fuerzas oscuras y ocultas empeñadas en destruir nuestra realidad. En poco tiempo, Strange, armado con sus poderes mágicos recientemente adquiridos, se ve obligado a elegir entre volver a su antigua vida de riqueza y prestigio o dejarlo todo, para defender el mundo como el mago más poderoso del planeta.</sinopsis>
+        <web>https://marvel.com/doctorstrange</web>
+        <clasificacion>7</clasificacion>
+        <imagen>img/DoctorStrange.jpg</imagen>
+        <trailer>https://www.youtube.com/watch?v=PqTILYUNU3s</trailer>
+    </pelicula>
+    <pelicula id="4">
+        <titulo>Thor: Ragnarok</titulo>
+        <tituloOriginal>Thor: Ragnarok</tituloOriginal>
+        <pais>EEUU</pais>
+        <año>2017</año>
+        <duracion>130</duracion>
+        <director>Taika Waititi</director>
+        <reparto>
+            <actor>Chris Hemsworth</actor>
+            <actor>Tom Hiddleston</actor>
+            <actor>Cate Blanchett</actor>
+            <actor>Mark Ruffalo</actor>
+            <actor>Tessa Thompson</actor>
+            <actor>Jeff Goldblum</actor>
+        </reparto>
+        <sinopsis>Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!.</sinopsis>
+        <web>https://marvel.com/thor_ragnarok</web>
+        <clasificacion>7</clasificacion>
+        <imagen>img/ThorRagnarok.jpg</imagen>
+        <trailer>https://www.youtube.com/watch?v=Cdp7Xo0x0Uw</trailer>
+    </pelicula>
+    <pelicula id="5">
+        <titulo>Guardianes de la galaxia Vol. 2</titulo>
+        <tituloOriginal>Guardians of the Galaxy Vol. 2</tituloOriginal>
+        <pais>EEUU</pais>
+        <año>2017</año>
+        <duracion>137</duracion>
+        <director>James Gunn</director>
+        <reparto>
+            <actor>Chris Pratt</actor>
+            <actor>Zoe Saldana</actor>
+            <actor>Dave Bautista</actor>
+            <actor>Vin Diesel</actor>
+            <actor>Bradley Cooper</actor>
+            <actor>Kurt Russell</actor>
+        </reparto>
+        <sinopsis>Continúan las aventuras del equipo en su travesía por los confines del cosmos. Los Guardianes deberán luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos orígenes de Peter Quill. Viejos rivales se convertirán en nuevos aliados, y queridos personajes de los cómics clásicos acudirán en ayuda de nuestros héroes a medida que el Universo Cinematográfico de Marvel continúa expandiéndose.</sinopsis>
+        <web>https://marvel.com/guardians</web>
+        <clasificacion>7</clasificacion>
+        <imagen>img/GuardiansOfTheGalaxyVol2.jpg</imagen>
+        <trailer>https://www.youtube.com/watch?v=ISS-a7b0iHw</trailer>
+    </pelicula>
+    <pelicula id="6">
+        <titulo>Deadpool 2</titulo>
+        <tituloOriginal>Deadpool 2</tituloOriginal>
+        <pais>EEUU</pais>
+        <año>2018</año>
+        <duracion>119</duracion>
+        <director>David Leitch</director>
+        <reparto>
+            <actor>Ryan Reynolds</actor>
+            <actor>Josh Brolin</actor>
+            <actor>Morena Baccarin</actor>
+            <actor>Zazie Beetz</actor>
+            <actor>Bill Skarsgard</actor>
+            <actor>T.J. Miller</actor>
+        </reparto>
+        <sinopsis>Después de sobrevivir a un ataque bovino casi mortal, el desfigurado chef de una cafetería (Wade Wilson) lucha por cumplir su sueño de convertirse en el barman más caliente de Mayberry mientras aprende a lidiar con su perdido sentido del gusto. Buscando algo de picante para su vida, así como un condensador de fluzo, Wade deberá luchar contra ninjas, la yakuza y un grupo sexualmente agresivos de canes, mientras recorre el mundo para descubrir la importancia de la familia, la amistad y el sabor, encontrando un nuevo gusto por la aventura y logrando el codiciado título de taza de café de “Mejor amante del mundo”.</sinopsis>
+        <web>https://www.foxmovies.com/movies/deadpool-2</web>
+        <clasificacion>16</clasificacion>
+        <imagen>img/Deadpool 2.jpg</imagen>
+        <trailer>https://www.youtube.com/watch?v=kNTH91JUyTg</trailer>
+    </pelicula>
+</cartelera>

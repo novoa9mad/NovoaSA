@@ -1,0 +1,58 @@
+.employee{
+    width: 250px;
+    margin-bottom: 16px;
+    padding: 0;
+    background-color: #252839;
+    margin-right: 30px;
+}
+
+.profile{
+    object-fit: cover;
+}
+
+.container {
+    padding: 0 16px;
+}
+
+.title{
+    color: #faaf18;
+}
+
+.button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: black;
+    background-color: #faaf18;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
+
+main{
+    margin-right: 0;
+    margin-left: 0;
+}
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 500px) {
+    aside{
+        display: none;
+    }
+
+    .employee{
+        margin-left: 30px;
+        width: 100%;
+    }
+
+    .profile{
+        object-fit: none;
+    }
+
+}
